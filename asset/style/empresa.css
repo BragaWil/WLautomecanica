@@ -114,8 +114,18 @@
         font-size: 2rem;
     }
 
+    .colaboradores__item{
+        width: 20vw;
+        height: 50vh;
+    }
+
+    .colaboradores__imagem{
+        width: 20vw;
+    }
+
     .colaboradores__descricao{
         font-size: 2rem;
+        margin-bottom: 1rem;
     }
 
     .empresa__imagem-logo{
