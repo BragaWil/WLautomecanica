@@ -52,12 +52,15 @@
     text-align: center;
 }
 
+ul{
+    padding-inline-start: 0;
+}
+
 .colaboradores__lista{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    margin: 1rem;
-    margin-left: 3rem;
+    margin: 1.6rem;
 }
 
 .colaboradores__item{

@@ -5,13 +5,15 @@
 }
 
 .contato__logo{
-    width: 30vw;
-    margin: 2rem 4rem;
+    width: 240px;
+    margin: 2rem 5rem;
+    height: 200px;
 }
 
 .contato__imagem{
-    margin: 2rem 350px;
-    width: 40vw;
+    margin: 2rem;
+    width: 80vw;
+    height: 35vh;
 }
 
 @media (min-width: 720px) {
